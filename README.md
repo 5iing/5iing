@@ -11,7 +11,7 @@
     "portfolio": "https://leeyeonwoo.xyz"
   },
   "techStack": {
-    "languages": ["TypeScript", "Python"],
+    "languages": ["GO", "TypeScript", "Python"],
     "frameworks": ["NestJS", "FastAPI"],
     "infra": ["Docker", "AWS"],
     "orms": ["Prisma", "SQLAlchemy"],
