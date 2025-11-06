@@ -3,7 +3,7 @@
 {
   "name": "Yeonwoo Lee",
   "username": "5iing",
-  "role": "Backend Developer",
+  "role": "Backend Engineer",
   "education": "Hansei Cyber Security High School",
   "contact": {
     "email": "rexrex1105@gmail.com",
