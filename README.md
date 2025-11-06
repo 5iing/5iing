@@ -11,7 +11,7 @@
   },
   "techStack": {
     "languages": ["GO", "TypeScript", "Python"],
-    "frameworks": ["NestJS", "FastAPI"],
+    "frameworks": ["NestJS", "FastAPI", "Flutter"],
     "infra": ["Docker", "AWS"],
     "orms": ["Prisma", "SQLAlchemy"],
     "databases": ["MySQL"]
